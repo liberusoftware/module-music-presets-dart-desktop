@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-presets-dart-desktop",
+  "capabilityKey": "liberusoftware/music-presets",
+  "presentation": "dart-desktop",
+  "package": "module_music_presets_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/music/nextjs/presets.md",
+  "presentationPlan": "projects/music/features/presets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
